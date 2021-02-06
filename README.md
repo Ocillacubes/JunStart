@@ -29,6 +29,7 @@ Like duckduckgo's bangs, JunStart has shortcuts, although these don't need a !. 
 * alist - AniList
 * amq - Anime Music Quiz
 * ht - HoloTools
+* tw - Twitter
 
 
 ## Current problems/todo
